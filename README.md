@@ -16,5 +16,8 @@ Kindly follow the instructions to commit your work to the shared repo. You will 
   git push origin africastalkingltd/theBankUSSD
 From here, you should enter your uswername and password on github
 
-*To see all the branches use:
- git branch
+*To see all the branches use:  git branch
+
+#####Some Resources for getting started.
+* You can use the git getting started guide: http://rogerdudler.github.io/git-guide/
+
