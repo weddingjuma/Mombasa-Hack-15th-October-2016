@@ -14,7 +14,7 @@ Kindly follow the instructions to commit your work to the shared repo. You will 
   git add yourfile.py
   git commit -m 'work from africastalkingltd' 
   git push origin africastalkingltd/theBankUSSD
-From here, you should enter your uswername and password on github
+From here, you should enter your username and password on github
 
 *To see all the branches use:  git branch
 
